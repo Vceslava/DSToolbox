@@ -1,4 +1,4 @@
 DSToolbox
 =========
 
-repository foe my coursera tasks
+repository for my coursera tasks
